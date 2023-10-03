@@ -1,5 +1,5 @@
 # automation-selenium-java-cucumber-herokuapp.com
-This project contains automation tests written in Java using Selenium WebDriver, TestNG, and Cucumber for the website the-internet.herokuapp.com that will allow us to build a test framework that can be used by businesses to understand the test scenarios and as well can test the web application.
+This project contains automation tests written in Java using Selenium WebDriver, TestNG, and Cucumber for the website [the-internet.herokuapp.com](url) that will allow us to build a test framework that can be used by businesses to understand the test scenarios and as well can test the web application.
 
 The project is structured as follows:
 
@@ -24,7 +24,7 @@ The project is structured as follows:
 └── README.md 
 ```
 
-- The src directory contains the main source code and test code and it has 2 folders **src/main/java** and **src/test/java**.
+- The src directory contains the main source code and test code and it has two folders **src/main/java** and **src/test/java**.
 - The **src/main/java** directory contains the com.herokuapp package where you can place any utility classes framework or page object model classes.
 - The **src/test/java** directory contains the test classes where you'll write your test cases.
 - The **src/test/resources** directory is where you can store any test-specific resources, such as test data files or configuration files.
