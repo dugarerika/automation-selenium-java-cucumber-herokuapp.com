@@ -3,20 +3,4 @@ This project contains automation tests written in Java using Selenium WebDriver,
 
 The project is structured as follows:
 
-│ .idea    
-└── src
-|    ├── main
-|   │   ├── java   
-|   │   │   ├── pom
-|   │   │   └── utils
-|   │   └── resources
-|   └── test
-|       ├── java
-|       │   └── 
-|       │       
-|       └── resources
-|	    └── features
-|
-|-- .gitignore
-|-- pom.xml
-|-- README.md 
+
