@@ -1,5 +1,5 @@
 # automation-selenium-java-cucumber-herokuapp.com
-This project contains automation tests written in Java using Selenium WebDriver, TestNG, and Cucumber for the website the-internet.herokuapp.com. 
+This project contains automation tests written in Java using Selenium WebDriver, TestNG, and Cucumber for the website the-internet.herokuapp.com that will allow us to build a test framework that can be used by businesses to understand the test scenarios and as well can test the web application.
 
 The project is structured as follows:
 
@@ -9,3 +9,13 @@ The project is structured as follows:
 - The src/test/resources directory is where you can store any test-specific resources, such as test data files or configuration files.
 - The src/test/resources/testng.xml file is the TestNG configuration file where you can configure your test suites, test groups, and other settings.
 - The .gitignore file specifies which files and directories should be ignored by Git version control.
+
+## Prerequisites
+To run the automation tests in this project, you'll need to have the following software installed on your machine:
+
+- Java Development Kit (JDK) 10 or higher
+- Apache Maven
+- Selenium WebDriver
+- TestNG
+- Cucumber Java
+- Cucumber TestNG
