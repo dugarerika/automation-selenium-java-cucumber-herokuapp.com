@@ -3,8 +3,7 @@ This project contains automation tests written in Java using Selenium WebDriver,
 
 The project is structured as follows:
 
-```
-│ .idea    
+```  
 ├── src
 │   ├── main
 │   │   ├── java   
